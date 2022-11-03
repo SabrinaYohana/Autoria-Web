@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BinaFlix</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body> 
+    
+    <header> <h1>   BINAFLIX </h1>  </header>
+ 
+  <ul>  
+    <h2>Categorias:</h2>
+   <h3>
+    <li>Ação</li>
+    <li>Comedia</li>
+    <li>Fantasia</li>
+    <li>Ficção Centifica</li>
+    <li>Terror</li>
+    <li>Romance</li>
+   </h3>
+  </ul>
+
+  <p> <h2> MAIS VISTOS PELA GALERA: </h2> </p>
+
+  <hr>
+
+  <main> 
+   
+
+  
+<figure> 
+    <header> <h3>Stranger Things </h3> </header> 
+    <img src=https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_1500,w_988/https%3A%2F%2Fculturess.com%2Ffiles%2F2022%2F05%2Famazon-TrendsInternational-stranger-things-season-4-poster-creel-house.jpg alt="Stranger Things" width="200">
+    <figcaption> <h4> Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina. </h4> </figcaption> 
+</figure> 
+  
+  <hr>
+
+  
+<figure> 
+    <header> <h3> The Vampire Diaries</h3> </header> 
+    <img src="https://cdn.europosters.eu/image/750/posters/the-vampire-diaries-woods-i21244.jpg" alt="tvd" width="200">
+    <figcaption> <h4> Os irmãos Damon e Stefan Salvatore são vampiros imortais que vivem na cidade de Mystic Falls, assim como outras criaturas sobrenaturais. Após conhecerem a humana Elena Gilbert, os dois se apaixonam por ela e começam a disputar não apenas seu amor, mas também sua alma. </h4> </figcaption> 
+</figure> 
+  
+  <hr>
+
+  <figure> 
+    <header> <h3> Doutor Estranho no Multiverso da Loucura </h3> </header> 
+    <img src="https://br.web.img3.acsta.net/pictures/22/02/14/18/29/1382589.png" alt="doutor estanho no multiverso" width="200">
+    <figcaption> <h4> Em Doutor Estranho no Multiverso da Loucura, após derrotar Dormammu e enfrentar Thanos nos eventos de Vingadores: Ultimato, o Mago Supremo, Stephen Strange, e seu parceiro Wong, continuam suas pesquisas sobre a Joia do Tempo. </h4> </figcaption> 
+</figure> 
+    
+   <hr>
+
+   <figure> 
+    <header> <h3> The Umbrella Academy </h3> </header> 
+    <img src=https://pbs.twimg.com/media/FTE1s0dX0AMO0_F.jpg alt="The Umbrella Academy" width="200">
+    <figcaption> <h4> Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade. </h4> </figcaption> 
+</figure> 
+
+<hr>
+
+  </main>
+  
+  <footer><h5> All right reseverd to FilmesFlix // FilmesFlix@hotmail.com // 0002-8900 </h5></footer>
+    
+</body>
+</html>
